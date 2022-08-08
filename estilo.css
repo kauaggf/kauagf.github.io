@@ -2,8 +2,13 @@ body{
     background: yellow;
     color: black;
 }   font-family: roboto;
-    font-si
+    font-size: x-large;
+    text-align: center;
 
 img{
     width: 320px;
 }
+
+img:hover{
+    transfors: scalex(-1)
+ }
