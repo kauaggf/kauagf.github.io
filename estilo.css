@@ -10,5 +10,5 @@ img{
 }
 
 img:hover{
-    transfors: scalex(-1)
+    transform: scaleX(-1)
  }
