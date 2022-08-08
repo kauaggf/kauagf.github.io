@@ -1,1 +1,8 @@
-body{}
+body{
+    background: yellow;
+    color: black;
+}
+
+img{
+    width: 320px;
+}
